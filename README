@@ -1,3 +1,5 @@
 Testing Play Slick and Play Slick Evolution with cockroach db.
 
-Make sure you have a database created named "test", then "sbt run" and open a browser at http://localhost:9000
+Make sure you have a database created named "test", then "sbt run" and open a browser at http://localhost:9000 and cockroach is running at it's default port of 26257.
+
+Connection settings are in conf/application.conf
